@@ -3,3 +3,4 @@ function sayHello(name) {
 }
 
 console.log(sayHello("Sounisa"))
+console.log('hello')
